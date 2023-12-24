@@ -25,9 +25,5 @@ The Blackjack Game project is a console-based implementation of the classic card
 
 3. **Run the Game:**
 
-- [Any credits or acknowledgments you want to include]
 
----
-
-[Optional: Add screenshots or gifs of your Blackjack game in action]
-
+![Game Screenshot](https://github.com/SeifHesham2/BlackJack/raw/main/screenshots/game_screenshot.png)
