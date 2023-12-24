@@ -31,7 +31,7 @@ Welcome to the Blackjack Game, a console-based implementation of the classic car
 
 ## Screenshots
 
-![Game Screenshot](https://github.com/SeifHesham2/BlackJack.png)
+![Game Screenshot](BlackJack.png)
 
 ## Getting Started
 
